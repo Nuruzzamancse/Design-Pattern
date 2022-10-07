@@ -1,2 +1,4 @@
 ### Design pattern with JavaScript
-This repo will contain design pattern related things
+
+#### Introduction
+ <i>Design patterns are solutions to recurring problems guidelines on how to tackle certain problems.</i>
