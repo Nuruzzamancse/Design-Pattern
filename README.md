@@ -1,4 +1,4 @@
-## Design pattern with JavaScript
+## Design pattern
 
 ### Introduction
  <i>Design patterns are solutions to recurring problems guidelines on how to tackle certain problems.</i>
