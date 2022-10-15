@@ -201,7 +201,7 @@ It promotes the loose-coupling by eliminating the need to bind application-speci
 <br/>
 <br/>
 
-**Structural design pattern:**
+## **Structural design pattern:**
 
 > Structural design pattern is a blueprint of how different objects and
 > classes are combined together to form a bigger structure for achieving
