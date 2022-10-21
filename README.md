@@ -288,7 +288,7 @@ And hunter expects any implementation of  `Lion`  interface to hunt.
  
 Now let's say we have to add a `WildDog` in our game so that hunter can hunt that also. But we can't do that directly because dog has a different interface. To make it compatible for our hunter, we will have to create an adapter that is compatible
 
-	    ```java
+```java
      // This needs to be added to the game
 	    public class WildDog {
 	    	public void bark() {
@@ -310,11 +310,11 @@ Now let's say we have to add a `WildDog` in our game so that hunter can hunt tha
 	    		wildDog.bark();
 	    	}
 	    }
-     ```
+```
 
 And now the  `WildDog`  can be used in our game using  `WildDogAdapter`.
 
-	    ```java
+```java
      public class Main {
 	    	
 	    	public Main() {
@@ -325,7 +325,7 @@ And now the  `WildDog`  can be used in our game using  `WildDogAdapter`.
 	    		hunter.hunt(wildDogAdapter);
 	    	}
 	    }
-     ```
+ ```
 
 ## Bridge Pattern
 
